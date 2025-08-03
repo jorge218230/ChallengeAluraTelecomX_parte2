@@ -1,4 +1,4 @@
-# Estudo de Previsão de Evasão de Clientes (Churn) - parte 2
+# Previsão de Evasão de Clientes (Churn) - parte 2
 
 Este projeto foca na análise dos fatores que influenciam a evasão de clientes (Churn) e no desenvolvimento de um modelo preditivo para identificar clientes em risco. O objetivo é fornecer insights acionáveis para estratégias de retenção.
 
